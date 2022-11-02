@@ -45,7 +45,7 @@
                     </svg>
                 </div>
 
-                <a href="/home">home</a>
+                <a href="/">home</a>
                 <a href="/news">news</a>
 
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
