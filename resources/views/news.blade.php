@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>new</title>
+        <title>最新消息</title>
 
         <!-- Fonts -->
         <link href="https://fonts.bunny.net/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -45,8 +45,8 @@
                     </svg>
                 </div>
 
-                <a href="{{route('about.index')}}">about</a>
-                <a href="{{route('home.index')}}">home</a>
+                <a href="{{route('about.index')}}">關於本站</a>
+                <a href="{{route('home.index')}}">首頁</a>
 
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     <div class="grid grid-cols-1 md:grid-cols-2">
